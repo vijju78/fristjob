@@ -1,0 +1,19 @@
+body{
+    background-color: rgb(18, 145, 187,0.2);
+}
+h1{
+    text-align: center;
+    text-shadow: 1px 3px 5px  black, 1px 3px 5px dodgerblue;
+    color:lightgray
+}
+div{
+    height: 150px;
+    width: 200px;
+    padding: 10px;
+    background-color: antiquewhite;
+    box-shadow: 10px 10px lightcoral;
+}
+marquee{
+    background-color: aliceblue;
+    color: darkmagenta;
+}
